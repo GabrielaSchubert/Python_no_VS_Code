@@ -1,4 +1,4 @@
-linhas = 2
+linhas = 3
 colunas = 3
 tabela = []
 for i in range(linhas):

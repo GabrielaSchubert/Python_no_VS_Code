@@ -1,5 +1,3 @@
-print("hello world")
-
 #Testando_o_vs_code
 
 num1 = 5
