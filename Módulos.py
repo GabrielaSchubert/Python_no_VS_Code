@@ -1,4 +1,3 @@
-
 import math
 
 numero = int(input("digite o número: "))
@@ -18,6 +17,6 @@ for caractere in minha_string:
         contem_apenas_digitos = False
         break
 if contem_apenas_digitos:
-    print("A string contém apenas dígitos.")
+    print("A string contém apenas dígitos")
 else:
-    print("A string não contém apenas dígitos.")
+    print("A string não contém apenas dígitos")

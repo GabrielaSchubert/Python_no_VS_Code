@@ -1,2 +1,2 @@
-# algoritmos_2023  
-Exercícios de Algoritmos e Lógica
+# Algoritmos_2023  
+Exercícios de Algoritmos e Lógica 
