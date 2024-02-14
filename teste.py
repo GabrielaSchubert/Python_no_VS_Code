@@ -5,7 +5,7 @@ num2 = 3
 num_resultado = num1+num2
 print("o resultado", num_resultado)
 
-Condicoes
+# Condições
 
 idade = int(input("digite a idade do carro: "))
 if idade <= 3:
@@ -13,7 +13,7 @@ if idade <= 3:
 else:
   print("seu carro e velho")
   
-Repeticoes
+# Repetições
 
 fim = int(input("digite o último número a ser imprimido: "))
 x = 1
